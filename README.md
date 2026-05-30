@@ -703,10 +703,6 @@ public class Program
 }
 ```
 
-Полный код: [`6task.cs`](./6task.cs)
-
----
-
 ## 🛠 Технологии
 
 - **Python 3** — задачи 1–5
